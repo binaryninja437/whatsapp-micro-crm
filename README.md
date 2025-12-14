@@ -17,7 +17,7 @@ graph TD
     D -->|Saves Lead| F[(Supabase Database)]
     F -->|Fetches All Leads| G[Pipeline Dashboard]
 
-
+---
 
 ## 💡 The Problem & Solution
 
